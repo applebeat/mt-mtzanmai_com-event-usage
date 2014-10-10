@@ -1,0 +1,24 @@
+mt-theme-mtzevent_template
+==========================
+MT三昧 イベント告知の使い方
+http://www.mtzanmai.com/mtzevent/
+
+.htaccessのパスワードの暗号化はfutomi's CGI Cafe様の下記ページのスクリプトを利用させていただいています。
+http://www.futomi.com/lecture/htaccess/htpasswd.html
+
+マニュアル作成中（下記にメモ書きしていきます。後日、まとめる予定）
+
+1.  
+--
+「イベントの新規登録」をクリックします。  
+
+2.  
+--
+イベントの新規登録ページが開くので必要事項を入力してください。  
+
+
+3.  
+--
+「イベントを登録」ボタンをクリックするとイベントが作成されます。  
+
+注意

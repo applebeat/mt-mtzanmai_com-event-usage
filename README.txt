@@ -22,18 +22,18 @@ http://www.futomi.com/lecture/htaccess/htpasswd.html
 ブログURL/files/enc-pass.html  
   
 ファイルの中身は下記のHTMLソースになります。  
-　&lt;form action="http://ブログのURL/cgi-bin/htaccess/encrypt.cgi" method="post" target="_blank"&gt;  
-　&lt;fieldset&gt;  
-　&lt;legend&gt;パスワードを入れてください&lt;/legend&gt;  
-　&lt;input type="text" name="pass" id="pass" size="20" /&gt;  
-　&lt;input type="submit" id="encrypt-btn" name="encrypt-btn" value="暗号化 &amp;gt;" /&gt;  
-　&lt;code id="encrypted-pass" style="font-size:medium;"&gt;&amp;nbsp;&lt;/code&gt;  
-　&lt;/fieldset&gt;  
-　&lt;/form&gt;  
+　<form action="http://ブログのURL/cgi-bin/htaccess/encrypt.cgi" method="post" target="_blank">  
+　<fieldset>  
+　<legend>パスワードを入れてください</legend>  
+　<input type="text" name="pass" id="pass" size="20" />  
+　<input type="submit" id="encrypt-btn" name="encrypt-btn" value="暗号化 &amp;gt;" />  
+　<code id="encrypted-pass" style="font-size:medium;">&amp;nbsp;</code>  
+　</fieldset>  
+　</form>  
   
 コピーしたHTMLソースでウェブページを作成します。  
 その際、1行目のaction属性のURLを「1.」のURLで書き換えます。  
-　→&lt;form action="http://ブログのURL/cgi-bin/htaccess/encrypt.cgi" method="post" target="_blank"&gt;  
+　→<form action="http://ブログのURL/cgi-bin/htaccess/encrypt.cgi" method="post" target="_blank">  
 また、ウェブページのフォルダに「htaccess」を選択してください。  
 
 3.  

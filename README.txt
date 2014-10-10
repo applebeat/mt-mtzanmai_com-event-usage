@@ -1,6 +1,7 @@
 mt-theme-mtzevent_template
 ==========================
-
+MT三昧 イベント告知の使い方
+http://www.mtzanmai.com/mtzevent/
 
 .htaccessのパスワードの暗号化はfutomi's CGI Cafe様の下記ページのスクリプトを利用させていただいています。
 http://www.futomi.com/lecture/htaccess/htpasswd.html

@@ -15,4 +15,4 @@ http://www.futomi.com/lecture/htaccess/htpasswd.html
 
 3.「イベントを登録」ボタンをクリックするとイベントが作成されます。  
 
-##注意
+##注意事項  

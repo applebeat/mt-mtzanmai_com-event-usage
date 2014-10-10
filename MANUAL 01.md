@@ -17,4 +17,4 @@ http://www.futomi.com/lecture/htaccess/htpasswd.html
 
 ##注意事項  
 1.開催時間など、時間を入力する欄は半角数字と記号「:」を使い、下記のように入力してください。  
-*入力例：HH:MM:SS
+* 入力例：HH:MM:SS
